@@ -12,10 +12,10 @@
 			"fileName": "uno",
 			"fileExtension": ".csv",
 			"almacen": "almacen001",
-			"accessToken": "APP_USR-415277088975179-060316-ccdfdde89059f3d0fcf7e315dd042dfc-578855757",
-			"publicKey": "APP_USR-86bf13e0-aaa8-49a3-94e9-ba9447edf7f2",
+			"accessToken": "TEST-1212389216954438-070714-8c8893b11c4e61193f1ba58a8f331a1f-605143987",
+			"publicKey": "TEST-835ca3fe-8729-4bec-914e-1b1da8a90e97",
 			"separator": "|",
-			"daysBack": 18
+			"daysBack": 1
   },
 	{
 	
@@ -30,9 +30,9 @@
 			"fileExtension": ".csv",
 			"almacen": "almacen002",
 			"accessToken": "TEST-1212389216954438-070714-8c8893b11c4e61193f1ba58a8f331a1f-605143987",
-			"publicKey": "APP_USR-86bf13e0-aaa8-49a3-94e9-ba9447edf7f2",
+			"publicKey": "TEST-835ca3fe-8729-4bec-914e-1b1da8a90e97",
 			"separator": "|",
-			"daysBack": 18
+			"daysBack": 1
   	}  
   ]
 }
